@@ -1,0 +1,26 @@
+{
+  "Students": [
+    {
+      "FULL_NAME": "John Doe",
+      "AGE": 25,
+      "YOUR_QUOTES": ["Be the change you wish to see in the world", "I have a dream"]
+    },
+    {
+      "FULL_NAME": "Jane Smith",
+      "AGE": 30,
+      "YOUR_QUOTES": ["Success is not final, failure is not fatal: It is the courage to continue that counts", "Happiness is not something ready made. It comes from your own actions."]
+    }
+  ],
+  "Students1": [
+    {
+      "SECTION": "A",
+      "CODE": "CS101",
+      "EMAIL": "john.doe@buksu.edu.ph"
+    },
+    {
+      "SECTION": "B",
+      "CODE": "ENG202",
+      "EMAIL": "jane.smith@buksu.edu.ph"
+    }
+  ]
+}
