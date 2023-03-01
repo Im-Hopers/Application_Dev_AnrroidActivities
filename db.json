@@ -1,26 +1,26 @@
 {
   "students": [
     {
-      "name": "Christian Hope",
-      "age": 25,
-      "quotes": ["Be the change you wish to see in the world", "I have a dream"]
+      "name": "Christian Hope Cedeno",
+      "age": 20,
+      "quotes": "Live life to the fullest."
     },
     {
-      "name": "Monkey D. Luffy",
-      "age": 29,
-      "quotes": ["If your're Hungry Eat."]
+      "name": "Monkey D Luffy",
+      "age": 19,
+      "quotes": "If you're Hungry Eat."
     }
   ],
   "studentinfo": [
     {
-      "section": "A",
-      "code": "CS101",
-      "email": "christianhope@buksu.edu.ph"
+      "classsection": "Section A",
+      "sectioncode": "A001",
+      "buksuemail": "christianhope@buksu.edu.ph"
     },
     {
-      "section": "B",
-      "code": "ENG202",
-      "email": "pirateking@buksu.edu.ph"
+      "classsection": "Section B",
+      "sectioncode": "B002",
+      "buksuemail": "pirateking@buksu.edu.ph"
     }
   ]
 }
