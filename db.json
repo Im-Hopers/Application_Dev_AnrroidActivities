@@ -1,26 +1,26 @@
 {
   "students": [
     {
-      "name": "John Doe",
+      "name": "Christian Hope",
       "age": 25,
       "quotes": ["Be the change you wish to see in the world", "I have a dream"]
     },
     {
-      "name": "Jane Smith",
-      "age": 30,
-      "quotes": ["Success is not final, failure is not fatal: It is the courage to continue that counts", "Happiness is not something ready made. It comes from your own actions."]
+      "name": "Monkey D. Luffy",
+      "age": 29,
+      "quotes": ["If your're Hungry Eat."]
     }
   ],
-  "student info": [
+  "studentinfo": [
     {
       "section": "A",
       "code": "CS101",
-      "email": "john.doe@buksu.edu.ph"
+      "email": "christianhope@buksu.edu.ph"
     },
     {
       "section": "B",
       "code": "ENG202",
-      "email": "jane.smith@buksu.edu.ph"
+      "email": "pirateking@buksu.edu.ph"
     }
   ]
 }
